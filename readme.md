@@ -12,10 +12,8 @@ A professional business website built for **Kisan Agro Chemicals** to showcase t
 
 ## 📸 Screenshots
 
-![Website Screenshot 1](./screenshots/kisan1.png)  
-![Website Screenshot 2](./screenshots/kisan2.png)
+![Website Screenshot 1](kisanagro1.png)  
 
-> 📁 Make sure your screenshots are saved in a folder named `screenshots` inside the repo.
 
 ---
 
